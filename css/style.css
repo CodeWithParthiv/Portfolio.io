@@ -97,7 +97,6 @@ section {
 
 .home-img img{
     width: 30vw;
-    padding-left: 1cm;
     animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -199,7 +198,6 @@ span {
 .about-img img {
 
     width: 30vw;
-    padding-right: 15%;
 
 }
 
